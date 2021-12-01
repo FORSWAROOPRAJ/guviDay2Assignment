@@ -1,0 +1,7 @@
+2.watch & summary 5 points - https://www.youtube.com/watch?v=SmE4OwHztCc&ab_channel=JSConf
+
+	*High level flow: Parse HTML, CSS ->Render Tree ->Layout->Paint.
+	*Parsing Flow: Script execution -> tokenizer ->Tree Construction -> Dom.
+	*Dom node to render objects.
+	*Layout computes where a node will be on the screen.
+	*Painting computes Bitmaps and Composites to screen.
